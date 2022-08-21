@@ -1,7 +1,7 @@
 # nPanel
 A Open Source cPanel Clone 
  nPanel is a Open Source Alternative to cPanel & WHM, You can use it to check your server info, mysql databases, knowledge bases, seo tools, phpmyadmin etc.
- nPanel is Designed for Windows Servers, You cannot use it in Linux
+ nPanel is Designed for Windows Servers, You cannot use it in Linux, nPanel is in Private Betas
  # Features
 
 ### nPanel Main Page
